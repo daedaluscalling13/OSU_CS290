@@ -1,0 +1,2 @@
+This is a file I created locally, in order to commit and pushed to Github.
+Thanks for viewing my TED talk.
